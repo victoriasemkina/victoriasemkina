@@ -26,7 +26,7 @@
 | :--- | :--- | :--- |
 | **[validated-test-data](https://github.com/victoriasemkina/validated-test-data)** | Modern Java-библиотека для генерации *гарантированно валидных* тестовых данных на основе аннотаций Bean Validation. Решает проблему хрупких тестовых данных. | `Java 17+`, `Records`, `Sealed Classes`, `DataFaker`, `Bean Validation` |
 | *(В плане)* **living-docs-template** | Шаблон репозитория с living documentation для тестового фреймворка (архитектура, гайды, best practices). | `Markdown`, `MkDocs`, `ADR` |
-| *(В плане)* **test-framework-checklist** | Интерактивный чек-лист для оценки здоровья и зрелости тестового фреймворка. | `HTML/CSS/JS`, `Checklist` |
+| **[test-framework-checklist](https://github.com/victoriasemkina/test-framework-checklist)** | Интерактивный чек-лист для оценки здоровья и зрелости тестового фреймворка. | `Vue`, `Checklist` |
 
 ---
 
