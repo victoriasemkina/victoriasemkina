@@ -25,7 +25,7 @@
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
 | **[validated-test-data](https://github.com/victoriasemkina/validated-test-data)** | Modern Java-библиотека для генерации *гарантированно валидных* тестовых данных на основе аннотаций Bean Validation. Решает проблему хрупких тестовых данных. | `Java 17+`, `Records`, `Sealed Classes`, `DataFaker`, `Bean Validation` |
-| *(В плане)* **living-docs-template** | Шаблон репозитория с living documentation для тестового фреймворка (архитектура, гайды, best practices). | `Markdown`, `MkDocs`, `ADR` |
+| **[living-docs-template](https://github.com/victoriasemkina/living-docs-template)** | Шаблон репозитория с living documentation для тестового фреймворка (архитектура, гайды, best practices). | `Markdown`, `MkDocs`, `ADR` |
 | **[test-framework-checklist](https://github.com/victoriasemkina/test-framework-checklist)** | Интерактивный чек-лист для оценки здоровья и зрелости тестового фреймворка. | `Vue`, `Checklist` |
 
 ---
